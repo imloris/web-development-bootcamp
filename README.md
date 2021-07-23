@@ -1,10 +1,10 @@
 # web development bootcamp
  Repositório referente ao Web Development Bootcamp
 
-IDEs usadas: 
+Code Editor usado: 
 Visual Studio Code
 
-Extenções: 
+Extenções:
 esbenp.prettier-vscode
 formulahendry.auto-close-tag
 hex-ci.stylelint-plus
