@@ -1,10 +1,19 @@
 body {
-	background-color: #fdefef;
+	background-color: #ece2e1;
 }
 hr {
-	border-color: grey;
+	border-color: #6e7582;
 	border-style: dotted none none none;
 	width: 5%;
 	border-width: 5px;
 	width: 5%;
+}
+
+h1 {
+	color: #f39189;
+}
+
+h3 {
+	color: #f39189;
+	/* text-align: center; */
 }
