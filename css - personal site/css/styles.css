@@ -5,6 +5,7 @@ div {
 body {
 	margin: 0 auto 0 auto;
 	text-align: center;
+	font-family: sans-serif;
 }
 h1 {
 	margin-top: 0;
@@ -12,4 +13,21 @@ h1 {
 
 .top-container {
 	background-color: #e4f9f5;
+	position: relative;
+	padding-top: 100px;
+}
+
+.top-could {
+	position: absolute;
+	right: 300px;
+	top: 50px;
+}
+
+.bottom-could {
+	position: absolute;
+	left: 300px;
+	bottom: 300px;
+}
+
+.mountain {
 }
