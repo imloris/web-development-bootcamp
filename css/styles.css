@@ -117,12 +117,6 @@ hr {
 	margin-left: 30px;
 }
 
-.pokemon {
-	width: 25%;
-	float: left;
-	margin-right: 30px;
-}
-
 .btn {
 	background: #11cdd4;
 	background-image: -webkit-linear-gradient(top, #11cdd4, #2980b9);
