@@ -1,5 +1,7 @@
 # web development bootcamp
- Repositório referente ao Web Development Bootcamp
+Repositório referente ao Web Development Bootcamp
+
+https://sirloris.github.io/web-development-bootcamp/
 
 Code Editor usado: 
 Visual Studio Code
