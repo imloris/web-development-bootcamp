@@ -2,6 +2,7 @@
 Repositório referente ao Web Development Bootcamp
 
 css-personal site: https://sirloris.github.io/web-development-bootcamp/
+dicee-challenge: https://sirloris.github.io/dicee-challenge/
 
 Code Editor usado: 
 Visual Studio Code
