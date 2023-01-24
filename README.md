@@ -1,11 +1,11 @@
 # web development bootcamp
 Repositório referente ao Web Development Bootcamp
 
-css-personal site: https://sirloris.github.io/web-development-bootcamp/
+css-personal site: https://imloris.github.io/web-development-bootcamp/
 
-dicee-challenge: https://sirloris.github.io/dicee-challenge/
+dicee-challenge: https://imloris.github.io/dicee-challenge/
 
-genius-game: https://sirloris.github.io/genius-game/
+genius-game: https://imloris.github.io/genius-game/
 
 Code Editor usado: 
 Visual Studio Code
